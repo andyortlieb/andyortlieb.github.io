@@ -33,10 +33,14 @@ Initial Release: 2014
 
 </details>
 
-### QX Review
+### QX Review: Automated Rule Engine with Manual Review of Mortgate Appraisals
 
-Initial Release: 2014
-Website: https://xomesolutions.com/xome-lenderx/xome-qx
+ * Initial Release: 2014
+ * [Website](https://xomesolutions.com/xome-lenderx/xome-qx) ([Archived](http://web.archive.org/web/20190712200021/https://xomesolutions.com/xome-lenderx/xome-qx))
+
+<details><summary>Description</summary>
+!TODO
+</details>
 
 ### Ipiphony: An On-Premise PBX
 
