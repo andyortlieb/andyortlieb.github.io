@@ -1,15 +1,12 @@
 # Portfolio
 Project Portfolio for Andrew Ortlieb
 
-# Successful Products
+## Successful Products
 
-<details>
-<summary>
-## Summit
-</summary>
+### Summit
 
+<details><summary>Description</summary>
 !TODO!
-
 <details>
 
 ## Corvisa Cloud
