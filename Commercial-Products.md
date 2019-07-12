@@ -82,6 +82,7 @@ FeeDirect was a feature of AdventTax which enabled Tax Preparers (ERO's) to faci
 #### Overview
  * Product Active: 2012-2014
  * My Active Role: 2012-2013
+ * Website: (Defunct)
 
 #### My Role
 
@@ -100,6 +101,7 @@ Originally built on top of the Twilio API, CorvisaCloud would become the precurs
  * Product Active: 2013-2017
  * My Active Role: 2013-2016
  * Primary Technologies: Twilio, FreeSwitch, Postgresql, Python (Django, Celery)
+ * Website: ([Archived](http://web.archive.org/web/20160217024635/https://www.corvisa.com/))
 
 #### My Role
 
