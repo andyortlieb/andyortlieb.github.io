@@ -37,6 +37,11 @@ Some other notable work:
 
 QX Review is an automated rule engine with an efficient and ergonomic manual review tool for processing mortgage appraisals. I worked on a small team to design a pleasant and interesting user experience for handling this daunting content. QX began as a part of LenderX by Streetlinks, and continues be a profit center, surviving in much of its original form through multiple acquisitions (Assurant, and now Xome).
 
+#### Overview
+ * Product Active: 2013-Present
+ * My Active Role: 2011-2013
+ * [Website](https://xomesolutions.com/xome-lenderx/xome-qx) ([Archived](http://web.archive.org/web/20190712200021/https://xomesolutions.com/xome-lenderx/xome-qx))
+
 #### My Role
 
 My team designed and implemented concise solutions to the entire complex user lifecycle:
@@ -46,11 +51,8 @@ My team designed and implemented concise solutions to the entire complex user li
  * Templating sets of rules for easy re-use.
  * Effectively and quickly guiding the user through the manual review process, which can possess hundreds to thousands of data points, and doing so by developing a technologically high-performance web-based GUI which was able to operate on browsers as old as IE7.
  * Graphical tools for debugging and analyzing the rules evaluated by the rule engine.
-
-#### Overview
- * Product Active: 2013-Present
- * My Active Role: 2011-2013
- * [Website](https://xomesolutions.com/xome-lenderx/xome-qx) ([Archived](http://web.archive.org/web/20190712200021/https://xomesolutions.com/xome-lenderx/xome-qx))
+ 
+---
 
 ### Ipiphony
 
@@ -75,15 +77,17 @@ Additional Resources: [Product Brochure](http://web.archive.org/web/201510242311
 
 ### AdventTax FeeDirect: Payment Processing
 
-FeeDirect was a feature of AdventTax which enabled Tax Preparers (ERO's) to facilitate the collection of fee payments from its customers. I developed ACH integration by generating, validating and receiving NACHA data. I also developed integration with Authorize.Net for credit card payment processing.
+FeeDirect was a feature of AdventTax which enabled Tax Preparers (ERO's) to facilitate the collection of fee payments from its customers.
 
 #### Overview
  * Product Active: 2012-2014
  * My Active Role: 2012-2013
 
-#### Related Works
+#### My Role
 
- * An interactive reporting tool (with templates, parameters and export features)
+ * Developed ACH Integration by generating, validating and receiving NACHA transport data
+ * Developed integration with AUthorize.Net for credit card payment processing
+ * Developed an interactive reporting tool (with templates, parameters and export features)
  
 ---
 
@@ -92,9 +96,14 @@ FeeDirect was a feature of AdventTax which enabled Tax Preparers (ERO's) to faci
 Originally built on top of the Twilio API, CorvisaCloud would become the precursor to the Summit platform. CorvisaCloud was a feature rich call center application with a heavy focus on SalesForce.Com integration.
 
 #### Overview
+
  * Product Active: 2013-2017
  * My Active Role: 2013-2016
  * Primary Technologies: Twilio, FreeSwitch, Postgresql, Python (Django, Celery)
+
+#### My Role
+
+ * Architected and implemented a complete VOIP stack to remove our dependency on Twilio
 
 ---
 
@@ -103,5 +112,6 @@ Originally built on top of the Twilio API, CorvisaCloud would become the precurs
 A customer portal for medical offices. Features included: Secure tunnelling of legacy billing applications, upload and automatic processing of billing forms, automated insurance clearing house submission & remittance processing.
 
 #### Overview
+
  * Product Active: 2007-Unknown
  * My Active Role: 2008-2010
