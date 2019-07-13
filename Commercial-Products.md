@@ -30,6 +30,8 @@ Some other notable work:
  * Integrated speech recognition and speech synthesis
  * Integrated a sandboxed lua interpreter and exhaustive support libraries for customization
  * Specified and implemented the REST API
+ * Specified and designed a massively scalable voice conferencing stack
+ * Designed and implemented a massively scalable and customizable synchronized on-hold music distributor with per-user announcement scheduling
  
 ---
 
