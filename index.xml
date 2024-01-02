@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy&#39;s Pages</title>
+    <link>https://andyortlieb.github.io/</link>
+    <description>Recent content on Andy&#39;s Pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2024 12:12:18 -0600</lastBuildDate>
+    <atom:link href="https://andyortlieb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up Home With Hugo</title>
+      <link>https://andyortlieb.github.io/posts/setting-up-home-with-hugo/</link>
+      <pubDate>Tue, 02 Jan 2024 12:12:18 -0600</pubDate>
+      <guid>https://andyortlieb.github.io/posts/setting-up-home-with-hugo/</guid>
+      <description>Captain&amp;rsquo;s Log Cleared the path for moving to Hugo Basically just wiped out all the files in a new branch, draft. Followed the getting started tutorial Instructions as seen at http://web.archive.org/web/20231230084934/https://gohugo.io/getting-started/quick-start/ With some modifications: 1. hugo new site home-hugo 1. hugo new content posts/setting-up-home-with-hugo.md (This doc) </description>
+    </item>
+  </channel>
+</rss>

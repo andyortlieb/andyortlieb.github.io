@@ -1,0 +1,5 @@
+baseURL = 'https://andyortlieb.github.io/'
+languageCode = 'en-us'
+title = "Andy's Pages"
+theme = 'ananke'
+publishDir = '..'
