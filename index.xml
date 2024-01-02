@@ -13,7 +13,7 @@
       <link>https://andyortlieb.github.io/posts/setting-up-home-with-hugo/</link>
       <pubDate>Tue, 02 Jan 2024 12:12:18 -0600</pubDate>
       <guid>https://andyortlieb.github.io/posts/setting-up-home-with-hugo/</guid>
-      <description>Captain&amp;rsquo;s Log Cleared the path for moving to Hugo Basically just wiped out all the files in a new branch, draft. Followed the getting started tutorial Instructions as seen at http://web.archive.org/web/20231230084934/https://gohugo.io/getting-started/quick-start/ With some modifications: 1. hugo new site home-hugo 1. hugo new content posts/setting-up-home-with-hugo.md (This doc) </description>
+      <description>Captain&amp;rsquo;s Log Cleared the path for moving to Hugo Basically just wiped out all the files in a new branch, draft. Followed the getting started tutorial Instructions as seen at http://web.archive.org/web/20231230084934/https://gohugo.io/getting-started/quick-start/ With some modifications: 1. hugo new site home-hugo 1. hugo new content posts/setting-up-home-with-hugo.md (This doc) Publishing Configured publishDir = &#39;..&#39; to publish static content to the root directory ran hugo and pushed. From the project root you can do something like (cd home-hugo/; hugo) </description>
     </item>
   </channel>
 </rss>

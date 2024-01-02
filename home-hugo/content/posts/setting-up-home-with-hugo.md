@@ -15,3 +15,9 @@ date = 2024-01-02T12:12:18-06:00
   1. With some modifications:
     1. `hugo new site home-hugo`
     1. `hugo new content posts/setting-up-home-with-hugo.md` (This doc)
+
+## Publishing
+
+1. Configured `publishDir = '..'` to publish static content to the root directory
+1. ran `hugo` and pushed.
+1. From the project root you can do something like `(cd home-hugo/; hugo)`
